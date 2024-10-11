@@ -1,0 +1,2 @@
+#include "resource.h"
+IDB_MYIMAGE RCDATA "shrek.png"

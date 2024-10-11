@@ -1,0 +1,1 @@
+#define IDB_MYIMAGE 101
